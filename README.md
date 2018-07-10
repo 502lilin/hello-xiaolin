@@ -1,3 +1,4 @@
 # hello-xiaolin
 This is a new!
-Are you ok?
+Today is 2018/7/10
+I will use Github,very happy!
